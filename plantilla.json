@@ -1,0 +1,72 @@
+[
+  {
+    "ID": 1,
+    "Apellidos": "Morales Sánchez",
+    "Nombre": "Alberto",
+    "Sueldo": 3561.52,
+    "Borrado": false
+  },
+  {
+    "ID": 2,
+    "Apellidos": "Rodríguez Gómez",
+    "Nombre": "José Luis",
+    "Sueldo": 3630.48,
+    "Borrado": false
+  },
+  {
+    "ID": 3,
+    "Apellidos": "Rodríguez López",
+    "Nombre": "Antonio José",
+    "Sueldo": 2033.93,
+    "Borrado": false
+  },
+  {
+    "ID": 4,
+    "Apellidos": "Gómez Moreno",
+    "Nombre": "Juan",
+    "Sueldo": 3972.95,
+    "Borrado": false
+  },
+  {
+    "ID": 5,
+    "Apellidos": "López Sánchez",
+    "Nombre": "Juan",
+    "Sueldo": 2167.85,
+    "Borrado": false
+  },
+  {
+    "ID": 6,
+    "Apellidos": "Rodríguez Sánchez",
+    "Nombre": "Juan",
+    "Sueldo": 1645.06,
+    "Borrado": false
+  },
+  {
+    "ID": 7,
+    "Apellidos": "López Gómez",
+    "Nombre": "Jesús",
+    "Sueldo": 2340.15,
+    "Borrado": false
+  },
+  {
+    "ID": 8,
+    "Apellidos": "Rodríguez Rodríguez",
+    "Nombre": "Juan",
+    "Sueldo": 1690.19,
+    "Borrado": false
+  },
+  {
+    "ID": 9,
+    "Apellidos": "Gómez Morales",
+    "Nombre": "Juan",
+    "Sueldo": 3357.78,
+    "Borrado": false
+  },
+  {
+    "ID": 10,
+    "Apellidos": "García Moreno",
+    "Nombre": "Antonio José",
+    "Sueldo": 0.0,
+    "Borrado": true
+  }
+]
